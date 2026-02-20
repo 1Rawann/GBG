@@ -1,0 +1,12 @@
+langchain
+langchain_google_genai
+python-dotenv
+langchain-core
+pandas
+sqlalchemy
+psycopg2-binary
+openai
+streamlit
+google-generativeai
+
+
